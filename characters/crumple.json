@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				146,
+				-148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "crumpleidle"
+		},
+		{
+			"offsets": [
+				57,
+				-218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "crumpledown"
+		},
+		{
+			"offsets": [
+				240,
+				-178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "crumpleleft"
+		},
+		{
+			"offsets": [
+				37,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "crumpleright"
+		},
+		{
+			"offsets": [
+				136,
+				-34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "crumpleup"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/crumple",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "crumple",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-180,
+		160
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

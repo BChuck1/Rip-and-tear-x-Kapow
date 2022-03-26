@@ -1,0 +1,219 @@
+{
+	"song": {
+		"speed": 3.6,
+		"stage": "sketchy",
+		"player1": "FLIPPY_onslaught-player",
+		"player2": "crumple",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Screen Shake",
+						"10, .005",
+						"0, 0"
+					]
+				]
+			],
+			[
+				5050,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				10100,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				15175,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				20200,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				25300,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				30275,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				33500,
+				[
+					[
+						"Screen Shake",
+						"7.5, .02",
+						"7.5, .02"
+					]
+				]
+			],
+			[
+				40450,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				45500,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				50550,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				55600,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				60650,
+				[
+					[
+						"Screen Shake",
+						"5, .01",
+						"5, 0"
+					]
+				]
+			],
+			[
+				65700,
+				[
+					[
+						"Screen Shake",
+						"2.5, .02",
+						"2.5, .02"
+					]
+				]
+			],
+			[
+				68200,
+				[
+					[
+						"Screen Shake",
+						"2.5, .01",
+						"2.5, 0"
+					]
+				]
+			],
+			[
+				70775,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			],
+			[
+				75837.5,
+				[
+					[
+						"Screen Shake",
+						"1, .2",
+						"1, .2"
+					]
+				]
+			],
+			[
+				76825,
+				[
+					[
+						"Screen Shake",
+						".6, .08",
+						".6, .08"
+					]
+				]
+			],
+			[
+				77375,
+				[
+					[
+						"Screen Shake",
+						"1, .04",
+						"1, .04"
+					]
+				]
+			],
+			[
+				78350,
+				[
+					[
+						"Screen Shake",
+						"5, .02",
+						"5, .02"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": "SketchyNotes",
+		"needsVoices": true,
+		"song": "Rip and tead x kapow"
+	}
+}
